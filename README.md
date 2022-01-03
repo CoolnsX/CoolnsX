@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoolnsX
+- 👋 Hi, I’m Tanveer Ahmed Ansari 
 - 👀 I’m interested in Shell Programming, technology, anime
 - 🌱 I’m currently learning Shell programming and python
 - 💞️ I’m looking to collaborate on any Project
