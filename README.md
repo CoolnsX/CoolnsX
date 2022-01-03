@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoolnsX
 - 👀 I’m interested in Shell Programming, technology, anime
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Shell programming and python
 - 💞️ I’m looking to collaborate on any Project
 - 📫 How to reach me 
 
