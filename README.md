@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanveer Ahmed Ansari .
 - 👀 I’m interested in Shell Programming, technology, anime, linux.
-- 🌱 I’m currently learning PHP 💀.
+- 🌱 I’m currently Developing in PHP (Laravel) 💀.
 
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=CoolnsX&show_icons=true&theme=tokyonight)
