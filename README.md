@@ -4,7 +4,7 @@
 
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=CoolnsX&show_icons=true&theme=tokyonight)
-![My streak](https://github-readme-streak-stats.herokuapp.com/?user=CoolnsX&theme=tokyonight&hide_border=false)<br/>
+![My Streak](https://streak-stats.demolab.com?user=CoolnsX&theme=tokyonight)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolnsX&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Badges
